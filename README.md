@@ -1,2 +1,2 @@
-# A Custom Beamer Theme 
-- Based on Torino by Marco Barisione
+# a custom beamer theme 
+- based on torino (an open source theme) by marco barisione
